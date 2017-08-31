@@ -1,3 +1,7 @@
+:warning: This project was merged with [influxdb-java](https://github.com/influxdata/influxdb-java).
+
+---
+
 # influxdb-pojomapper
 Helper classes to map InfluxDB QueryResult object to _POJO_.
 # How to use it
